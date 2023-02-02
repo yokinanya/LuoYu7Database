@@ -1,3 +1,6 @@
 {
-    "version": 
+  "version": "v3.3",
+  "tittle": "※ 铃星羽 ※",
+  "raw": "帮助文档：https://0sf.yokinanya.icu\n镜像地址：https://mirrors.0sf.yokinanya.icu/",
+  "announcement": "因TwitterAPI变动，Twitter插件可能会彻底报废"
 }
