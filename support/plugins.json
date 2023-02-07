@@ -1,0 +1,12 @@
+{
+  "announce": {
+    "name": "公告",
+    "description": "快速批量向启用了bot的群组发送通知公告",
+    "useage": "#公告 [公告内容]"
+  },
+  "auto_group_sign": {
+    "name": "自动群打卡",
+    "description": "让机器人参与抢群打卡每日第一",
+    "useage": "由管理员配置, 无命令用法"
+  }
+}
