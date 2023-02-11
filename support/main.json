@@ -1,6 +1,6 @@
 {
   "version": "v3.4",
   "tittle": "※ 铃星羽 ※",
-  "raw": "帮助文档：\nhttps://0sf.yokinanya.icu\n镜像地址：\nhttps://mirrors.0sf.yokinanya.icu/",
-  "announcement": "公告：\n1.因Twitter API变动，Twitter插件已下线\n2.因未知原因，Apex插件会导致Bot完全卡死，Apex插件已暂时下线\n\n"
+  "raw": "帮助文档：\nhttps://0sf.yokinanya.icu",
+  "announcement": "公告：\n移除镜像文档(但不是完全移除)\n\n"
 }
