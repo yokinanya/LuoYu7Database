@@ -4,6 +4,5 @@
 
 ## 各文件夹内容说明
 
-- blacklist     联ban黑名单数据(非实时更新)
 - support       帮助文件
 
